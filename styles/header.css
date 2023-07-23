@@ -1,0 +1,13 @@
+header {
+    color: #fff;
+    max-width: 32.75rem;
+}
+h1 {
+    font-size: 3.125rem;
+    line-height: 3.5rem;
+    margin-bottom: 1.5rem;
+}
+p {
+    height: 1.5rem;
+    font-weight: 500;
+}
