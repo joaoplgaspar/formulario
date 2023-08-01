@@ -12,7 +12,7 @@ Formulário montado a partir do design do figma do desafio BORACODAR
 
 <hr>
 
-![Imagem tela do formulário](https://github.com/joaoplgaspar/formulario/assets/130015259/a472a994-1e0a-438f-8e8b-8eef60a86970)
+![Imagem tela do formulário](https://github.com/joaoplgaspar/formulario/assets/130015259/a472a994-1e0a-438f-8e8b-8eef60a86970#vitrinedev)
 
 <hr>
 
